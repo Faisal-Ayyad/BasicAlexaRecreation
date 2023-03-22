@@ -1,0 +1,20 @@
+For it to work you need to install these:
+
+  pip install speech_recognition 
+
+  pip install pyttsx3
+
+  pip install pyaudio
+  
+  
+Moreover you need to install Flac this is how:
+
+  Windows: You can download and install the FLAC codec from the official website right here: https://xiph.org/flac/download.html 
+  
+  MacOS: You can install the FLAC codec using Homebrew by running the following command in your Terminal: brew install flac
+  
+  Linux: You can install the FLAC codec using the package manager and the command is: sudo apt-get install flac
+  
+  
+
+
